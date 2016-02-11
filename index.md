@@ -13,21 +13,21 @@ Los temas son desarrollados por sesiones, en las cuales, los miembros del grupo 
 La programación para el 2016 es la siguiente:
 
 
-| Fecha  | Responsable      | Tópico                                                              |  
-| :----- | :--------------- | :------------------------------------------------------------------ |  
-| Feb 15 | Andrés Marrugo   | Superficies en 3D por proyección de franjas y calibración no lineal ([PDF][1]) |  
-| Feb 22 | Sonia Contreras  |                                                                     |  
-| Feb 29 | Hernando Altamar |                                                                     |  
-| Mar 7  |                  |                                                                     |  
-| Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics. Application to speckles reduction in Fresnel holograms.                |  
-| Mar 28 |                  |                                                                     |  
-| Apr 4  |                  |                                                                     |  
-| Apr 11 |                  |                                                                     |  
-| Apr 18 |                  |                                                                     |  
-| Apr 25 |                  |                                                                     |  
-| May 2  |                  |                                                                     |  
-| May 16 |                  |                                                                     |  
-| May 23 |                  |                                                                     |  
+| Fecha  | Responsable      | Tópico                                                                                                       |  
+| :----- | :--------------- | :----------------------------------------------------------------------------------------------------------- |  
+| Feb 15 | Andrés Marrugo   | Superficies en 3D por proyección de franjas y calibración no lineal ([PDF][1])                               |  
+| Feb 22 | Sonia Contreras  |                                                                                                              |  
+| Feb 29 | Hernando Altamar |                                                                                                              |  
+| Mar 7  |                  |                                                                                                              |  
+| Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics. Application to speckles reduction in Fresnel holograms. |  
+| Mar 28 | Lenny A. Romero  |                                                                                                              |  
+| Apr 4  |                  |                                                                                                              |  
+| Apr 11 |                  |                                                                                                              |  
+| Apr 18 |                  |                                                                                                              |  
+| Apr 25 |                  |                                                                                                              |  
+| May 2  |                  |                                                                                                              |  
+| May 16 |                  |                                                                                                              |  
+| May 23 |                  |                                                                                                              |  
 
 
 [1]: papers/Juan_E_Ortuno_2009.pdf
