@@ -1,3 +1,13 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Keynote files
+.key

@@ -15,7 +15,7 @@ La programación para el 2016 es la siguiente:
 
 | Fecha  | Responsable      | Tópico                                                                                                       |  
 | :----- | :--------------- | :----------------------------------------------------------------------------------------------------------- |  
-| Feb 15 | Andrés Marrugo   | Superficies en 3D por proyección de franjas y calibración no lineal ([PDF][1])                               |  
+| Feb 15 | Andrés Marrugo   | Superficies en 3D por proyección de franjas y calibración no lineal ([PDF][1], [diapositivas][2])                               |  
 | Feb 22 | Sonia Contreras  |                                                                                                              |  
 | Feb 29 | Hernando Altamar |                                                                                                              |  
 | Mar 7  | Jesús Pineda     | Avances en reconstrucción 3D mediante perfilometría de Fourier                                               |  
@@ -31,7 +31,7 @@ La programación para el 2016 es la siguiente:
 
 
 [1]: papers/Juan_E_Ortuno_2009.pdf
-
+[2]: slides/3D_FMT_Profilometry-seminario.pdf
 
 
 
