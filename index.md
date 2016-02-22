@@ -6,7 +6,7 @@ El seminario de investigación consiste en *estudiar, discutir e intercambiar* e
 Participan principalmente profesores y estudiantes de los siguientes grupos de investigación de las facultades de Ingeniería y Ciencias Básicas de la [Universidad Tecnológica de Bolívar:](http://www.unitecnologica.edu.co/ "Universidad Tecnológica de Bolívar | Una institución con vocación empresarial e internacional")
 
 - Física Aplicada y Procesamiento de Imágenes y Señales ([FAPIS](http://scienti.colciencias.gov.co:8080/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000012959 "GrupLAC - Plataforma SCienTI - Colombia")).
-- Grupo de Automatización y Control Industrial ([GAICO](http://scienti.colciencias.gov.co:8080/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003446 "GrupLAC - Plataforma SCienTI - Colombia")).
+- Grupo de Automatización Industrial y Control ([GAICO](http://scienti.colciencias.gov.co:8080/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003446 "GrupLAC - Plataforma SCienTI - Colombia")).
 
 Los temas son desarrollados por sesiones, en las cuales, los miembros del grupo asumen diferentes roles manteniendo una relación de interés y compromiso con el conocimiento, sin jerarquías, en un clima de colaboración y participación activa.
 
@@ -33,7 +33,7 @@ Se lleva a cabo en el Aula A5-203 los lunes de 14:00 a 15:00. La programación p
 [1]: papers/Juan_E_Ortuno_2009.pdf
 [2]: slides/3D_FMT_Profilometry-seminario.pdf
 [3]: papers/ultrasound-despeckling-for-contrast-enhancement-10.pdf
-[4]: a
+[4]: slides/ultrasound-despeckling-for-contrast-enhancement.pptx
 
 
 
