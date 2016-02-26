@@ -17,7 +17,7 @@ Se lleva a cabo en el Aula A5-203 los lunes de 14:00 a 15:00. La programación p
 | :----- | :--------------- | :------------------------------------------------------------------------------------------ |  
 | Feb 15 | Andrés Marrugo   | Superficies en 3D por proyección de franjas y calibración no lineal ([PDF][1], [Diapos][2]) |  
 | Feb 22 | Sonia Contreras  | Ultrasound Despeckling for Contrast Enhancement ([PDF][3], [Diapos][4])                     |  
-| Feb 29 | Hernando Altamar |  Analysis of Focus Measure Operators for Shape-from-focus ([PDF][5], Diapos)|  
+| Feb 29 | Hernando Altamar | Analysis of Focus Measure Operators for Shape-from-focus ([PDF][5], Diapos)                 |  
 | Mar 7  | Jesús Pineda     | Avances en reconstrucción 3D mediante perfilometría de Fourier                              |  
 | Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics...                                      |  
 | Mar 28 | Lenny A. Romero  |                                                                                             |  
