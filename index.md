@@ -21,7 +21,7 @@ Se lleva a cabo en el Aula A5-203 los lunes de 14:00 a 15:00. La programación p
 | Mar 7  | Jesús Pineda     | Avances en reconstrucción 3D mediante perfilometría de Fourier                                                    |  
 | Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics...                                                            |  
 | Mar 28 | Raúl Vargas      | Eliminating zero spectra in Fourier transform profilometry by application of Hilbert transform ([PDF][6], Diapos) |  
-| Apr 4  | Lenny A. Romero  | Elementos ópticos didácticos: una alternativa para la correccion de la presbicia                                  |  
+| Apr 4  | Lenny A. Romero  | Elementos ópticos difráctivos: una alternativa para la corrección de la presbicia                                  |  
 | Apr 11 |                  |                                                                                                                   |  
 | Apr 18 |                  |                                                                                                                   |  
 | Apr 25 |                  |                                                                                                                   |  
