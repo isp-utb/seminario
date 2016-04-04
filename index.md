@@ -13,21 +13,21 @@ Los temas son desarrollados por sesiones, en las cuales, los miembros del grupo 
 Se lleva a cabo en el Aula A5-203 los lunes de 14:00 a 15:00. La programación para el 2016 es la siguiente:
 
 
-| Fecha  | Responsable      | Tópico                                                                                         |  
-| :----- | :--------------- | :--------------------------------------------------------------------------------------------- |  
-| Feb 15 | Andrés Marrugo   | Superficies en 3D por proyección de franjas y calibración no lineal ([PDF][1], [Diapos][2])    |  
-| Feb 22 | Sonia Contreras  | Ultrasound Despeckling for Contrast Enhancement ([PDF][3], [Diapos][4])                        |  
-| Feb 29 | Hernando Altamar | Analysis of Focus Measure Operators for Shape-from-focus ([PDF][5], Diapos)                    |  
-| Mar 7  | Jesús Pineda     | Avances en reconstrucción 3D mediante perfilometría de Fourier                                 |  
-| Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics...                                         |  
+| Fecha  | Responsable      | Tópico                                                                                                            |  
+| :----- | :--------------- | :---------------------------------------------------------------------------------------------------------------- |  
+| Feb 15 | Andrés Marrugo   | Superficies en 3D por proyección de franjas y calibración no lineal ([PDF][1], [Diapos][2])                       |  
+| Feb 22 | Sonia Contreras  | Ultrasound Despeckling for Contrast Enhancement ([PDF][3], [Diapos][4])                                           |  
+| Feb 29 | Hernando Altamar | Analysis of Focus Measure Operators for Shape-from-focus ([PDF][5], Diapos)                                       |  
+| Mar 7  | Jesús Pineda     | Avances en reconstrucción 3D mediante perfilometría de Fourier                                                    |  
+| Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics...                                                            |  
 | Mar 28 | Raúl Vargas      | Eliminating zero spectra in Fourier transform profilometry by application of Hilbert transform ([PDF][6], Diapos) |  
-| Apr 4  | Lenny A. Romero  |                                                                                                |  
-| Apr 11 |                  |                                                                                                |  
-| Apr 18 |                  |                                                                                                |  
-| Apr 25 |                  |                                                                                                |  
-| May 2  |                  |                                                                                                |  
-| May 16 |                  |                                                                                                |  
-| May 23 |                  |                                                                                                |  
+| Apr 4  | Lenny A. Romero  | Elementos ópticos didácticos: una alternativa para la correccion de la presbicia                                  |  
+| Apr 11 |                  |                                                                                                                   |  
+| Apr 18 |                  |                                                                                                                   |  
+| Apr 25 |                  |                                                                                                                   |  
+| May 2  |                  |                                                                                                                   |  
+| May 16 |                  |                                                                                                                   |  
+| May 23 |                  |                                                                                                                   |  
 
 
 
