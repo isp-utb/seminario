@@ -21,13 +21,13 @@ Se lleva a cabo en el Aula A5-203 los lunes de 14:00 a 15:00. La programación p
 | Mar 7  | Jesús Pineda     | Avances en reconstrucción 3D mediante perfilometría de Fourier                                                    |  
 | Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics...                                                            |  
 | Mar 28 | Raúl Vargas      | Eliminating zero spectra in Fourier transform profilometry by application of Hilbert transform ([PDF][6], Diapos) |  
-| Apr 4  | Lenny A. Romero  | Elementos ópticos difráctivos: una alternativa para la corrección de la presbicia                                  |  
-| Apr 11 |                  |                                                                                                                   |  
+| Apr 4  | Lenny A. Romero  | Elementos ópticos difráctivos: una alternativa para la corrección de la presbicia                                 |  
+| Apr 11 | Vilma V. Ojeda   | Teorías simples de El Niño-Oscilación Sur  (PDF[7], Diapos)                                                       |  
 | Apr 18 |                  |                                                                                                                   |  
 | Apr 25 |                  |                                                                                                                   |  
 | May 2  |                  |                                                                                                                   |  
 | May 16 |                  |                                                                                                                   |  
-| May 23 |                  |                                                                                                                   |  
+| May 23 |                  |                                                                                                                   |   
 
 
 
@@ -37,5 +37,5 @@ Se lleva a cabo en el Aula A5-203 los lunes de 14:00 a 15:00. La programación p
 [4]: slides/ultrasound-despeckling-for-contrast-enhancement.pptx
 [5]: papers/Pattern_Recognition_Pertuz_2013.pdf
 [6]: papers/Optics_Communications_Luo_2016.pdf
-
+[7]: papers/2014_Dewitte-etal_Boletin-PpRElNino-Vol8.pdf
 
