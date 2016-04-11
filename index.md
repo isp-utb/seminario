@@ -22,7 +22,7 @@ Se lleva a cabo en el Aula A5-203 los lunes de 14:00 a 15:00. La programación p
 | Mar 14 | Alberto Patiño   | α-bandlimited diffuser in fractional Fourier optics...                                                            |  
 | Mar 28 | Raúl Vargas      | Eliminating zero spectra in Fourier transform profilometry by application of Hilbert transform ([PDF][6], Diapos) |  
 | Apr 4  | Lenny A. Romero  | Elementos ópticos difráctivos: una alternativa para la corrección de la presbicia                                 |  
-| Apr 11 | Vilma V. Ojeda   | Teorías simples de El Niño-Oscilación Sur  ([PDF][7], Diapos)                                                       |  
+| Apr 11 | Isabella Taboada | Teorías simples de El Niño-Oscilación Sur  ([PDF][7], Diapos)                                                     |  
 | Apr 18 |                  |                                                                                                                   |  
 | Apr 25 |                  |                                                                                                                   |  
 | May 2  |                  |                                                                                                                   |  
